@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sparsh Singh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79D03&center=true&vCenter=true&width=435&lines=Aspiring+SDE+%7C+React+Native+Developer;Building+Wellness+Apps+%F0%9F%8F%8B%EF%B8%8F;Lifelong+Learner+%7C+Final+Year+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79D03&center=true&vCenter=true&width=450&lines=Aspiring+SDE+%7C+React+Native+Dev;Building+Wellness+Apps+%F0%9F%A7%9C;Final+Year+CSE+Student+%7C+Sharda;DSA+%7C+Tech+%7C+Self+Growth" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,35 +25,38 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SparshSingh700&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparshSingh700&theme=tokyonight" alt="streak"/>
-</p>
+### ⚒ Noteworthy Projects
 
----
-
-### ⚒️ Noteworthy Projects
-- **[VitaMate – Personal Wellness App](https://github.com/SparshSingh700/VitaMate)**  
+- 💪 [VitaMate – Personal Wellness App](https://github.com/SparshSingh700/VitaMate)  
   Cross-platform React Native app for fitness, food, mood & mental tracking with offline-first logic, voice journaling & smart UI.
 
-- **[College Buddy – Productivity App](https://github.com/SparshSingh700/College-Buddy)**  
+- 🎓 [College Buddy – Productivity App](https://github.com/SparshSingh700/College-Buddy)  
   React Native + Firebase app to track DSA progress, interview planning, and study notes.
 
 ---
 
 ### 📚 Courses & Learning
-- Udemy: **React Native - The Practical Guide** by Maximilian Schwarzmüller  
-- Striver’s A2Z DSA Sheet (Ongoing)
+
+- React Native – The Practical Guide (Udemy – Max Schwarzmüller)  
+- Striver’s A2Z DSA Sheet (Ongoing – 300+ problems solved)  
+- Clean Code, Git, Firebase, App design systems
 
 ---
 
-### ✨ Let's Connect
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SparshSingh700&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SparshSingh700&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh-singh-71a245296/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/SparshSingh700)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SparshSingh700&style=flat-square&color=blue" alt="Profile Views" />
